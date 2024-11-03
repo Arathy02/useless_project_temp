@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [VIRTUAL FUTURE YOU TIME MACHINE] 🎯
 
-## Available Scripts
 
-In the project directory, you can run:
+## Basic Details
+### Team Name: [BitBenders]
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Team Members
+- Team Lead: [Arathy t.m.] - [College of engineering munnar]
+- Member 2: [marhoona safar] - [College of engineering munnar]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Project Description
+Our project is a futuristic, interactive "Time Machine" web app where users input lifestyle data (sleep, diet, exercise, etc.) to see humorous and exaggerated predictions of their future selves. With an engaging design and animations, the app offers a fun, visually appealing experience using modern web technologies.
 
-### `npm test`
+### The Problem (that doesn't exist)
+Our project solves the completely unnecessary problem of "What will I look like in the future based on my current habits?"—a fun, exaggerated take on lifestyle choices that no one asked for but everyone can enjoy. It’s a playful, comical way to visualize the impact of daily habits like sleep, diet, and exercise, turning serious health concerns into entertaining predictions!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### The Solution (that nobody asked for)
+We’re solving this non-existent crisis by building a “futuristic time machine” that transforms your lifestyle choices into wild, animated predictions of your future self. Forget health trackers! Our app uses sliders and quirky animations to show you if too much junk food means you'll become a walking burger or if too little sleep turns you into a zombie—because, clearly, that’s what the world really needs!
+## Technical Details
+### Technologies/Components Used
+For Software:
+- javascript,html,css
+react.js,node.js,express.js
+reactbootstrap,
+vs code
 
-### `npm run build`
+### Implementation
+For Software:
+# Installation
+[commands]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Run
+[commands]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Project Documentation
+For Software:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Screenshots (Add at least 3)
+![Screenshot1]
+![alt text](<Screenshot 2024-11-03 102801.png>)
+HOME PAGE
 
-### `npm run eject`
+![Screenshot2]![alt text](<Screenshot 2024-11-03 102848.png>)
+RESULT
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot3]
+![alt text](<Screenshot 2024-11-03 113850.png>)
+QUESTION1
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Project Demo
+# Video
+<video controls src="Screen Recording 2024-11-03 102540.mp4" title="Title"></video>
+In the demo video, we showcase a streamlined user journey starting from the Home page and leading to a final result display, passing through an interactive questionnaire session. Here’s a breakdown of the flow:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Home Page:
 
-## Learn More
+The video begins by displaying the Home page interface, where the user is introduced to the purpose of the application. The design is clean and inviting, ensuring ease of navigation.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+There might be a prominent Start or Begin button to lead users into the next phase, the questionnaire.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+2. Questionnaire Session:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+After clicking the Start button, the user is directed to the Questionnaire session.
 
-### Analyzing the Bundle Size
+In this session, the user is presented with a series of questions, one at a time.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Each question might have options like multiple-choice answers, checkboxes, or input fields depending on the nature of the questions.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+As the user responds to each question, the interface could offer feedback (such as indicating the current question number or progress through the session).
 
-### Advanced Configuration
+The design is kept user-friendly, allowing for easy navigation between questions (with options like Next or Previous).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+3. Result Display:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Once the questionnaire is completed, the user is redirected to the Result page.
 
-### `npm run build` fails to minify
+The result page provides an outcome based on the user's answers. This could be a score, a personalized result summary, or a recommendation.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The results might be visually enhanced with graphs, percentages, or textual explanations to give clear feedback.
+
+
+Summary:
+
+The video demonstrates a smooth user flow from the Home page to the Questionnaire session and finally to the Result display.
+
+It emphasizes interactivity and user engagement through well-designed transitions and clear navigation.
+
+The process ensures users can easily complete the questionnaire and receive meaningful results in a concise, engaging manner.
+
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [arathy]: [backend]
+- [marhoona]: [frontend]
+- 
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
+
+
